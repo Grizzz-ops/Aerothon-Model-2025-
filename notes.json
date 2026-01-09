@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "bending"
+    },
+    {
+      "id": 1,
+      "name": "corrosion"
+    },
+    {
+      "id": 2,
+      "name": "crack"
+    },
+    {
+      "id": 3,
+      "name": "hole"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

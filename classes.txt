@@ -1,0 +1,4 @@
+bending
+corrosion
+crack
+hole
