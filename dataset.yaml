@@ -1,0 +1,10 @@
+path: data
+
+train: images/train
+val: images/val
+
+names:
+  0: bending
+  1: corrosion
+  2: hole
+  3: crack
